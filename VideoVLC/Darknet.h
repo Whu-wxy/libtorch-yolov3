@@ -8,7 +8,9 @@
 *
 *******************************************************************************/
 
-#include <torch/torch.h>
+#undef slots
+#include "torch/torch.h"
+#define slots Q_SLOTS
 #include <string>
 #include <vector>
 #include <map>
