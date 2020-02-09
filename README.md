@@ -7,6 +7,7 @@ This project is inspired by the [pytorch version](https://github.com/ayooshkathu
 1. LibTorch v1.0.0
 2. Qt5
 3. OpenCV
+4. VLC-Qt
 
 
 
@@ -22,6 +23,6 @@ wget https://pjreddie.com/media/files/yolov3.weights
 
 
 
-
+## Fork from
 
 <https://github.com/walktree/libtorch-yolov3>
